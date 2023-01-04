@@ -2,9 +2,9 @@ const memeMaker = require('../meme-maker')
 
 const options = {
   image: './spiderman.jpeg',         // Required
-  outfile: 'spiderman-meme.png',  // Required
-  topText: 'AE',            // Required
-  bottomText: 'aa ASS',           // Optional
+  outfile: 'spiderman-output.png',  // Required
+  topText: 'HEY',            // Required
+  bottomText: 'CHICKEN',           // Optional
   font: './../impact.ttf',      // Optional
   fontSize: 50,                   // Optional
   fontFill: '#FFF',               // Optional
