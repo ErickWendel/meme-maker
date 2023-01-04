@@ -17,8 +17,5 @@
     "generator"
   ],
   "author": "ErickWendel",
-  "license": "ISC",
-  "dependencies": {
-    "gm": "^1.22.0"
-  }
+  "license": "ISC"
 }
